@@ -22,12 +22,6 @@ This data contains over 165999 rows and 11 columns(Rank, Video Game Name, Gaming
    cd Video-Games-Sales-Excel
    ```
 
-2. Create a virtual environment (optional but recommended):
-    ```
-    bash 
-    python -m venv venv
-    ```
-
 ## Screenshots
 Here are some visual representations of the project:
 
